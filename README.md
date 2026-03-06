@@ -6,7 +6,7 @@ My philosophy and approach is best described this way: The Unix philosophy - my 
 
 I build mostly Linux utilities written in Go or Bash focused on the Linux OS. Diagnostic tools, hardware probes, system automation. The kind of thing you drop on an old machine and run without installing anything.
 
-My stack inimal so that my CPU gets as many cycles as possible, rather than wasting them on wrappers, desktop environments or Electron-based apps.
+My stack is deliberately minimal so that my CPU gets as many cycles as possible, rather than wasting them on wrappers, desktop environments or Electron-based apps.
 
 Stack:
 OS: CrunchBang++ (Debian base) / Openbox / tint2
