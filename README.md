@@ -2,7 +2,7 @@ Ben Santora
 
 Independent. Linux — CrunchBang++ - Openbox — Bare Metal - Go Programming
 
-My philosophy and approach is best described this way: The Unix philosophy - my interest is in tools that do one thing and do it directly. No wrappers, no GUIs where a terminal will work, no abstraction layers I don't control. I use ffmpeg, not OBS. I run SLMs by pinning cores and calling llama.cpp directly, not through Ollama or Jan. I'd rather understand the tool at its lowest level, than be managed by some interface built around it. I'm learning Go because it fits that approach — small binaries, no runtime dependencies, compiles to a single file that runs anywhere Linux runs.
+My philosophy aligns with the Unix philosophy - an interest in tools that do one thing and do it directly. No wrappers, no GUIs where a terminal will work, no abstraction layers I don't control. I use ffmpeg, not OBS. I run SLMs by pinning cores and calling llama.cpp directly, not through Ollama or Jan. I'd rather understand the tool at its lowest level, than be managed by some interface built around it. I'm learning Go because it fits that approach — small binaries, no runtime dependencies, compiles to a single file that runs anywhere Linux runs.
 
 I build mostly Linux utilities written in Go or Bash focused on the Linux OS. Diagnostic tools, hardware probes, system automation. The kind of thing you drop on an old machine and run without installing anything.
 
